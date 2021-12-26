@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a42a61a.css",
+    "main.js": "/static/js/main.36113360.js",
+    "static/media/christmas-candy.png": "/static/media/christmas-candy.285fdbbef40053b4b36c.png",
+    "static/media/christmas-lights.gif": "/static/media/christmas-lights.260f2553454e8eaaf7b6.gif",
+    "index.html": "/index.html",
+    "main.9a42a61a.css.map": "/static/css/main.9a42a61a.css.map",
+    "main.36113360.js.map": "/static/js/main.36113360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a42a61a.css",
+    "static/js/main.36113360.js"
+  ]
+}
