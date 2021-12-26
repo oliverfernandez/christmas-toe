@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/christmas-toe/build/static/css/main.0c6e9c23.css",
-    "main.js": "/christmas-toe/build/static/js/main.36113360.js",
+    "main.css": "/christmas-toe/build/static/css/main.6d20d2b0.css",
+    "main.js": "/christmas-toe/build/static/js/main.9d879256.js",
     "static/media/christmas-candy.png": "/christmas-toe/build/static/media/christmas-candy.285fdbbef40053b4b36c.png",
     "static/media/christmas-lights.gif": "/christmas-toe/build/static/media/christmas-lights.260f2553454e8eaaf7b6.gif",
+    "static/media/reload.jpg": "/christmas-toe/build/static/media/reload.258e2b52fdcffef7787f.jpg",
     "index.html": "/christmas-toe/build/index.html",
-    "main.0c6e9c23.css.map": "/christmas-toe/build/static/css/main.0c6e9c23.css.map",
-    "main.36113360.js.map": "/christmas-toe/build/static/js/main.36113360.js.map"
+    "main.6d20d2b0.css.map": "/christmas-toe/build/static/css/main.6d20d2b0.css.map",
+    "main.9d879256.js.map": "/christmas-toe/build/static/js/main.9d879256.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c6e9c23.css",
-    "static/js/main.36113360.js"
+    "static/css/main.6d20d2b0.css",
+    "static/js/main.9d879256.js"
   ]
 }
